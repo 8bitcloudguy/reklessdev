@@ -1,0 +1,16 @@
+html, body {
+	padding:0;
+	margin: 0;
+	width: 100%;
+	height: auto;
+}
+
+
+
+#MainHeader {
+	background: blue;
+}
+
+
+#MainHeader h1,
+#MainHeader h3 {margin:0; }
